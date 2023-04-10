@@ -1,0 +1,186 @@
+county_fips,wwtp_id,county,state,pop_li,sample_location_li
+01033,[1333],Colbert,Alabama,[19000],['Treatment plant']
+01081,[1464],Lee,Alabama,[72000],['Treatment plant']
+01117,[1394],Shelby,Alabama,[11000],['Treatment plant']
+02110,"[1490, 1491]",Juneau,Alaska,"[10000, 20000]","['Treatment plant', 'Treatment plant']"
+04012,[501],La Paz,Arizona,[3500],['Treatment plant']
+04013,"[1212, 1382, 1383, 1334]",Maricopa,Arizona,"[17280, 50000, 2400000, 150000]","['Before treatment plant', 'Treatment plant', 'Treatment plant', 'Treatment plant']"
+04015,"[1327, 808]",Mohave,Arizona,"[30000, 37500]","['Treatment plant', 'Treatment plant']"
+04019,"[715, 590, 1271]",Pima,Arizona,"[397407, 347900, 23000]","['Treatment plant', 'Treatment plant', 'Treatment plant']"
+05007,[1537],Benton,Arkansas,[17737],['Treatment plant']
+05009,[1540],Boone,Arkansas,[14000],['Treatment plant']
+05055,[1536],Greene,Arkansas,[29000],['Treatment plant']
+05069,[1548],Jefferson,Arkansas,[42323],['Treatment plant']
+05085,[1442],Lonoke,Arkansas,[27000],['Treatment plant']
+05103,[1565],Ouachita,Arkansas,[10200],['Treatment plant']
+05115,[1550],Pope,Arkansas,[31000],['Treatment plant']
+05119,"[1542, 1546, 1543, 1545, 1444, 446]",Pulaski,Arkansas,"[30377, 18463, 23812, 28500, 5000, 32043]","['Treatment plant', 'Treatment plant', 'Treatment plant', 'Treatment plant', 'Treatment plant', 'Treatment plant']"
+05123,[1472],Saint Francis,Arkansas,[13000],['Treatment plant']
+05125,[1461],Saline,Arkansas,[35000],['Treatment plant']
+05143,"[1465, 1462]",Washington,Arkansas,"[93949, 93949]","['Treatment plant', 'Treatment plant']"
+05145,[1509],White,Arkansas,[25000],['Treatment plant']
+06001,"[1732, 1685, 1733, 564, 1734]",Alameda,California,"[229476, 740000, 47229, 60000, 68150]","['Treatment plant', 'Treatment plant', 'Treatment plant', 'Treatment plant', 'Treatment plant']"
+06013,"[1173, 724, 1668, 88, 1720]",Contra Costa,California,"[494300, 215394, 484800, 487300, 100000]","['Treatment plant', 'Treatment plant', 'Treatment plant', 'Treatment plant', 'Treatment plant']"
+06017,[1288],El Dorado,California,[40000],['Treatment plant']
+06023,[461],Humboldt,California,[43173],['Treatment plant']
+06031,[1199],Kings,California,[59000],['Treatment plant']
+06033,"[1019, 778, 1219]",Lake,California,"[13200, 10080, 5000]","['Treatment plant', 'Treatment plant', 'Treatment plant']"
+06037,"[779, 1690, 211, 1694, 1693]",Los Angeles,California,"[200000, 4000000, 3500000, 200000, 3500000]","['Treatment plant', 'Treatment plant', 'Treatment plant', 'Treatment plant', 'Treatment plant']"
+06053,"[1756, 1387]",Monterey,California,"[262000, 250000]","['Treatment plant', 'Treatment plant']"
+06065,[834],Riverside,California,[91765],['Treatment plant']
+06067,[383],Sacramento,California,[1480000],['Treatment plant']
+06071,"[1409, 356, 1709]",San Bernardino,California,"[78000, 325000, 890000]","['Treatment plant', 'Treatment plant', 'Treatment plant']"
+06073,"[1684, 1785, 357]",San Diego,California,"[2200000, 1600000, 2200000]","['Treatment plant', 'Treatment plant', 'Treatment plant']"
+06079,"[1759, 1560, 1230, 1593, 1561, 793, 1676]",San Luis Obispo,California,"[15200, 14276, 47400, 6500, 6500, 39000, 31037]","['Treatment plant', 'Treatment plant', 'Treatment plant', 'Treatment plant', 'Treatment plant', 'Treatment plant', 'Treatment plant']"
+06087,"[763, 1678, 1679, 803, 495, 802]",Santa Cruz,California,"[160000, 160000, 160000, 150000, 60000, 85000]","['Treatment plant', 'Treatment plant', 'Treatment plant', 'Treatment plant', 'Treatment plant', 'Treatment plant']"
+06097,"[1680, 570, 1687]",Sonoma,California,"[230000, 220000, 65000]","['Treatment plant', 'Treatment plant', 'Treatment plant']"
+08005,[747],Arapahoe,Colorado,[25714],['Treatment plant']
+08045,"[1290, 161]",Garfield,Colorado,"[7300, 16714]","['Treatment plant', 'Treatment plant']"
+09001,"[534, 806, 1395, 771, 291]",Fairfield,Connecticut,"[100000, 65000, 52265, 120000, 17000]","['Treatment plant', 'Treatment plant', 'Treatment plant', 'Treatment plant', 'Treatment plant']"
+09003,[1618],Hartford,Connecticut,[25000],['Treatment plant']
+09009,"[686, 1079, 1196]",New Haven,Connecticut,"[112000, 228000, 19500]","['Treatment plant', 'Treatment plant', 'Treatment plant']"
+09011,"[832, 1163]",New London,Connecticut,"[40000, 22000]","['Treatment plant', 'Treatment plant']"
+10003,"[1194, 1187]",New Castle,Delaware,"[539000, 17145]","['Treatment plant', 'Treatment plant']"
+11001,[486],District Of Columbia,District of Columbia,[1600000],['Treatment plant']
+12001,"[1502, 1501]",Alachua,Florida,"[100000, 100000]","['Treatment plant', 'Treatment plant']"
+12057,[1392],Hillsborough,Florida,[180000],['Treatment plant']
+12086,"[711, 668, 781]",Miami-Dade,Florida,"[829725, 920528, 776150]","['Treatment plant', 'Treatment plant', 'Treatment plant']"
+12095,"[670, 671, 1631, 669, 1715, 1686, 1702]",Orange,Florida,"[59587, 463672, 50000, 277823, 183009, 195299, 66690]","['Treatment plant', 'Treatment plant', 'Treatment plant', 'Treatment plant', 'Treatment plant', 'Treatment plant', 'Treatment plant']"
+12099,"[1699, 1551]",Palm Beach,Florida,"[90000, 300000]","['Treatment plant', 'Treatment plant']"
+12103,"[511, 574]",Pinellas,Florida,"[103000, 220000]","['Treatment plant', 'Treatment plant']"
+12117,"[1735, 1145]",Seminole,Florida,"[95000, 43010]","['Treatment plant', 'Treatment plant']"
+13089,[684],Dekalb,Georgia,[325000],['Treatment plant']
+13185,"[1747, 1109]",Lowndes,Georgia,"[19400, 65000]","['Treatment plant', 'Treatment plant']"
+15001,"[1221, 1337]",Hawaii,Hawaii,"[32600, 5000]","['Treatment plant', 'Treatment plant']"
+15003,"[1208, 1204, 1203, 790, 798]",Honolulu,Hawaii,"[20800, 109236, 300000, 700000, 48519]","['Treatment plant', 'Treatment plant', 'Treatment plant', 'Treatment plant', 'Treatment plant']"
+15007,"[710, 1286]",Kauai,Hawaii,"[10000, 6900]","['Treatment plant', 'Treatment plant']"
+16001,"[818, 992]",Ada,Idaho,"[120344, 167500]","['Treatment plant', 'Treatment plant']"
+16057,[1023],Latah,Idaho,[24000],['Treatment plant']
+17031,"[675, 638, 982, 632, 635, 639, 682, 674, 683, 637, 636, 641]",Cook,Illinois,"[24099, 1127737, 1263110, 270647, 3816, 1127736, 265000, 54362, 161000, 13098, 110394, 217106]","['Before treatment plant', 'Treatment plant', 'Treatment plant', 'Treatment plant', 'Before treatment plant', 'Treatment plant', 'Treatment plant', 'Before treatment plant', 'Treatment plant', 'Treatment plant', 'Treatment plant', 'Treatment plant']"
+17091,"[546, 628]",Kankakee,Illinois,"[65000, 56317]","['Treatment plant', 'Treatment plant']"
+17143,[647],Peoria,Illinois,[157379],['Treatment plant']
+17201,[462],Winnebago,Illinois,[240000],['Treatment plant']
+18003,[1350],Allen,Indiana,[315000],['Treatment plant']
+18005,[678],Bartholomew,Indiana,[49000],['Treatment plant']
+18035,[1281],Delaware,Indiana,[67000],['Treatment plant']
+18037,[1273],Dubois,Indiana,[16000],['Treatment plant']
+18057,"[1162, 828]",Hamilton,Indiana,"[98000, 86000]","['Treatment plant', 'Treatment plant']"
+18067,[1319],Howard,Indiana,[45000],['Treatment plant']
+18069,[1318],Huntington,Indiana,[17612],['Treatment plant']
+18077,[1352],Jefferson,Indiana,[16000],['Treatment plant']
+18085,[1267],Kosciusko,Indiana,[21600],['Treatment plant']
+18089,[1269],Lake,Indiana,[28000],['Treatment plant']
+18105,"[765, 772]",Monroe,Indiana,"[28350, 67500]","['Treatment plant', 'Treatment plant']"
+18141,"[1293, 1681]",St Joseph,Indiana,"[130000, 130000]","['Treatment plant', 'Treatment plant']"
+18167,[1289],Vigo,Indiana,[58500],['Treatment plant']
+18177,[1314],Wayne,Indiana,[36000],['Treatment plant']
+19103,"[105, 544]",Johnson,Iowa,"[21000, 75849]","['Treatment plant', 'Treatment plant']"
+19123,"[1447, 1449]",Mahaska,Iowa,"[5201, 6357]","['Treatment plant', 'Treatment plant']"
+19191,[1496],Winneshiek,Iowa,[8500],['Treatment plant']
+19193,[1303],Woodbury,Iowa,[102000],['Treatment plant']
+20057,[807],Ford,Kansas,[27000],['Treatment plant']
+20091,"[1305, 1292, 1300, 1304, 1299]",Johnson,Kansas,"[54985, 66377, 42235, 73829, 112076]","['Treatment plant', 'Treatment plant', 'Treatment plant', 'Treatment plant', 'Treatment plant']"
+20155,[472],Reno,Kansas,[40000],['Treatment plant']
+20177,"[787, 833]",Shawnee,Kansas,"[90000, 50000]","['Treatment plant', 'Treatment plant']"
+21041,[1207],Carroll,Kentucky,[3000],['Before treatment plant']
+21111,"[901, 905, 903, 1701, 904, 902]",Jefferson,Kentucky,"[55928, 349850, 32460, 423913, 31269, 295910]","['Treatment plant', 'Treatment plant', 'Treatment plant', 'Treatment plant', 'Treatment plant', 'Treatment plant']"
+22033,"[1116, 1107]",East Baton Rouge,Louisiana,"[99712, 262326]","['Treatment plant', 'Treatment plant']"
+22051,"[1497, 1614, 1656, 1659, 1626]",Jefferson,Louisiana,"[300000, 65364, 100000, 100000, 100000]","['Treatment plant', 'Treatment plant', 'Treatment plant', 'Treatment plant', 'Treatment plant']"
+22079,[1229],Rapides,Louisiana,[60000],['Treatment plant']
+23005,"[1754, 1707, 716]",Cumberland,Maine,"[10000, 65000, 8500]","['Treatment plant', 'Treatment plant', 'Treatment plant']"
+23013,[347],Knox,Maine,[7000],['Treatment plant']
+23015,[65],Lincoln,Maine,[1759],['Treatment plant']
+23017,[507],Oxford,Maine,[1000],['Treatment plant']
+23021,[475],Piscataquis,Maine,[900],['Before treatment plant']
+23023,[560],Sagadahoc,Maine,[8514],['Treatment plant']
+23031,[1206],York,Maine,[21000],['Before treatment plant']
+24001,[666],Allegany,Maryland,[45000],['Treatment plant']
+24003,"[1260, 1285, 1268, 1278, 1262, 1284, 1261]",Anne Arundel,Maryland,"[89000, 13000, 150000, 22000, 11000, 78000, 91000]","['Treatment plant', 'Treatment plant', 'Treatment plant', 'Treatment plant', 'Treatment plant', 'Treatment plant', 'Treatment plant']"
+24017,[1348],Charles,Maryland,[88500],['Treatment plant']
+24027,[547],Howard,Maryland,[270000],['Treatment plant']
+25005,[1311],Bristol,Massachusetts,[100000],['Treatment plant']
+25013,[470],Hampden,Massachusetts,[55000],['Treatment plant']
+25017,[1384],Middlesex,Massachusetts,[180000],['Treatment plant']
+25027,"[1180, 1330, 1495]",Worcester,Massachusetts,"[12000, 3000, 42000]","['Treatment plant', 'Treatment plant', 'Treatment plant']"
+28071,[1393],Lafayette,Mississippi,[27662],['Treatment plant']
+31101,[1312],Keith,Nebraska,[4793],['Treatment plant']
+31155,[1411],Saunders,Nebraska,[4800],['Treatment plant']
+32003,"[663, 703, 1082, 777]",Clark,Nevada,"[265000, 650000, 984000, 246258]","['Treatment plant', 'Treatment plant', 'Treatment plant', 'Treatment plant']"
+32031,[554],Washoe,Nevada,[200000],['Treatment plant']
+33003,[285],Carroll,New Hampshire,[25000],['Treatment plant']
+33013,"[1706, 497]",Merrimack,New Hampshire,"[4000, 45000]","['Treatment plant', 'Treatment plant']"
+33019,[402],Sullivan,New Hampshire,[6500],['Treatment plant']
+34003,[1605],Bergen,New Jersey,[564563],['Treatment plant']
+34017,[1385],Hudson,New Jersey,[145000],['Treatment plant']
+34025,"[1453, 1763, 1616]",Monmouth,New Jersey,"[47000, 52672, 40000]","['Treatment plant', 'Treatment plant', 'Treatment plant']"
+34031,[1291],Passaic,New Jersey,[54000],['Treatment plant']
+35028,"[853, 854, 1386]",Los Alamos,New Mexico,"[13179, 5852, 13000]","['Treatment plant', 'Treatment plant', 'Treatment plant']"
+36059,"[1306, 1021, 719, 836]",Nassau,New York,"[524955, 20616, 24041, 611349]","['Treatment plant', 'Treatment plant', 'Treatment plant', 'Treatment plant']"
+37051,[144],Cumberland,North Carolina,[151589],['Treatment plant']
+37167,[537],Stanly,North Carolina,[20000],['Treatment plant']
+37181,[539],Vance,North Carolina,[15000],['Treatment plant']
+38035,[1463],Grand Forks,North Dakota,[67000],['Treatment plant']
+38089,[1471],Stark,North Dakota,[25679],['Treatment plant']
+39153,[36],Summit,Ohio,[377378],['Treatment plant']
+40009,[831],Beckham,Oklahoma,[11500],['Treatment plant']
+40019,[1264],Carter,Oklahoma,[25000],['Treatment plant']
+40031,[769],Comanche,Oklahoma,[93000],['Treatment plant']
+41005,[933],Clackamas,Oregon,[14206],['Treatment plant']
+41017,"[932, 940]",Deschutes,Oregon,"[92850, 32255]","['Treatment plant', 'Treatment plant']"
+41029,"[956, 469]",Jackson,Oregon,"[133708, 21105]","['Treatment plant', 'Treatment plant']"
+41051,[945],Multnomah,Oregon,[662235],['Treatment plant']
+41071,"[955, 938]",Yamhill,Oregon,"[34615, 24120]","['Treatment plant', 'Treatment plant']"
+42017,[1454],Bucks,Pennsylvania,[55000],['Treatment plant']
+42043,"[1667, 1366]",Dauphin,Pennsylvania,"[125000, 124000]","['Treatment plant', 'Treatment plant']"
+42049,[1359],Erie,Pennsylvania,[200000],['Treatment plant']
+42055,[1367],Franklin,Pennsylvania,[67000],['Treatment plant']
+42063,[1529],Indiana,Pennsylvania,[28809],['Treatment plant']
+42069,"[1775, 1617]",Lackawanna,Pennsylvania,"[15700, 88000]","['Treatment plant', 'Treatment plant']"
+42091,"[1357, 1081, 1083]",Montgomery,Pennsylvania,"[30000, 13000, 10000]","['Treatment plant', 'Treatment plant', 'Before treatment plant']"
+42129,"[1369, 1376, 1473]",Westmoreland,Pennsylvania,"[25000, 4600, 32000]","['Treatment plant', 'Treatment plant', 'Treatment plant']"
+44001,"[835, 677]",Bristol,Rhode Island,"[11000, 21100]","['Treatment plant', 'Treatment plant']"
+44003,"[1134, 565, 1224]",Kent,Rhode Island,"[60224, 6000, 33000]","['Treatment plant', 'Treatment plant', 'Treatment plant']"
+44007,"[76, 464, 548]",Providence,Rhode Island,"[10000, 240000, 120000]","['Treatment plant', 'Treatment plant', 'Treatment plant']"
+45043,"[885, 1265]",Georgetown,South Carolina,"[30000, 12000]","['Treatment plant', 'Treatment plant']"
+45045,"[884, 1549, 1700]",Greenville,South Carolina,"[400000, 140280, 142376]","['Treatment plant', 'Treatment plant', 'Treatment plant']"
+45047,"[600, 599]",Greenwood,South Carolina,"[48000, 12000]","['Treatment plant', 'Treatment plant']"
+45051,"[909, 1541]",Horry,South Carolina,"[195000, 30000]","['Treatment plant', 'Treatment plant']"
+46103,[672],Pennington,South Dakota,[80000],['Treatment plant']
+46135,[1165],Yankton,South Dakota,[15500],['Treatment plant']
+47023,[1607],Chester,Tennessee,[3710],['Treatment plant']
+47037,[1283],Davidson,Tennessee,[600000],['Treatment plant']
+47157,"[1329, 1323]",Shelby,Tennessee,"[300000, 300000]","['Treatment plant', 'Treatment plant']"
+47163,[1539],Sullivan,Tennessee,[50000],['Treatment plant']
+47165,[1445],Sumner,Tennessee,[45000],['Treatment plant']
+48113,"[805, 1210, 1673, 1231, 1683]",Dallas,Texas,"[900000, 900000, 200000, 500000, 186000]","['Treatment plant', 'Treatment plant', 'Treatment plant', 'Treatment plant', 'Treatment plant']"
+48141,"[566, 681, 709, 673]",El Paso,Texas,"[143000, 142000, 170000, 436000]","['Treatment plant', 'Treatment plant', 'Treatment plant', 'Treatment plant']"
+48167,"[1494, 593, 667]",Galveston,Texas,"[20000, 89600, 26400]","['Treatment plant', 'Treatment plant', 'Treatment plant']"
+48257,[1131],Kaufman,Texas,[138700],['Treatment plant']
+48453,"[1140, 1141]",Travis,Texas,"[500000, 510000]","['Treatment plant', 'Treatment plant']"
+48479,"[863, 865, 867]",Webb,Texas,"[30000, 120000, 140000]","['Treatment plant', 'Treatment plant', 'Treatment plant']"
+49011,"[24, 6, 25]",Davis,Utah,"[84981, 64533, 21872]","['Treatment plant', 'Treatment plant', 'Treatment plant']"
+49035,"[28, 11, 1736, 7, 30]",Salt Lake,Utah,"[209645, 89507, 600000, 515494, 254971]","['Treatment plant', 'Before treatment plant', 'Treatment plant', 'Treatment plant', 'Treatment plant']"
+50003,[1157],Bennington,Vermont,[15000],['Treatment plant']
+50007,"[1080, 701, 1751]",Chittenden,Vermont,"[31000, 8500, 22000]","['Treatment plant', 'Treatment plant', 'Treatment plant']"
+50011,[770],Franklin,Vermont,[7500],['Treatment plant']
+50023,[1520],Washington,Vermont,[15000],['Treatment plant']
+51005,[1259],"Clifton Forge City,Alleghany",Virginia,[5000],['Treatment plant']
+51013,[1113],Arlington,Virginia,[207627],['Treatment plant']
+51067,[1272],Franklin,Virginia,[5000],['Treatment plant']
+51069,"[1202, 308]",Frederick,Virginia,"[51470, 16563]","['Treatment plant', 'Treatment plant']"
+51085,[1160],Hanover,Virginia,[20000],['Treatment plant']
+51089,[540],Henry,Virginia,[16000],['Treatment plant']
+51107,[51],Loudoun,Virginia,[10178],['Treatment plant']
+51117,[1338],Mecklenburg,Virginia,[5300],['Treatment plant']
+51179,[220],Stafford,Virginia,[44000],['Treatment plant']
+51195,"[118, 1198]",Wise,Virginia,"[14000, 9340]","['Treatment plant', 'Treatment plant']"
+51730,[1218],Petersburg City,Virginia,[30000],['Before treatment plant']
+53005,"[754, 755, 758]",Benton,Washington,"[59609, 15000, 83000]","['Treatment plant', 'Treatment plant', 'Treatment plant']"
+53011,"[510, 1084, 499, 804]",Clark,Washington,"[81140, 120000, 162100, 16950]","['Treatment plant', 'Treatment plant', 'Treatment plant', 'Treatment plant']"
+53061,"[768, 555, 679, 661]",Snohomish,Washington,"[173800, 20000, 7125, 37650]","['Treatment plant', 'Treatment plant', 'Treatment plant', 'Treatment plant']"
+54069,[445],Ohio,West Virginia,[50000],['Treatment plant']
+55025,"[391, 1277, 231]",Dane,Wisconsin,"[33000, 360000, 345000]","['Treatment plant', 'Treatment plant', 'Treatment plant']"
+55073,[433],Marathon,Wisconsin,[42350],['Treatment plant']
+56033,[1353],Sheridan,Wyoming,[20000],['Treatment plant']
+56037,[1317],Sweetwater,Wyoming,[12000],['Treatment plant']
+56039,[188],Teton,Wyoming,[13036],['Treatment plant']
