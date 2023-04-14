@@ -1,10 +1,10 @@
 # covid-wbe
 
 ## Dependencies
-geopandas
-matplotlib
-numpy
-pandas
-pytorch
-python 3.10
-scienceplots
+1. geopandas
+1. matplotlib
+1. numpy
+1. pandas
+1. pytorch
+1. python 3.10
+1. scienceplots
