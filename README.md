@@ -10,10 +10,10 @@
 1. scienceplots
 
 ## Raw Data
-1. NWSS_Concentration_Data.csv, downloaded from CDC website on Dec 21, 2022
-1. NWSS_Metric_Data.csv, downloaded from CDC website on Dec 21, 2022
-1. wastwater_by_county.csv, downloaded from Biobot's Github repository on Dec 21, 2022
-1. cases_by_county.csv, downloaded from Biobot's Github repository on Dec 21, 2022
+1. NWSS_Concentration_Data.csv, downloaded from the CDC website on Dec 21, 2022
+1. NWSS_Metric_Data.csv, downloaded from the CDC website on Dec 21, 2022
+1. wastwater_by_county.csv, downloaded from the Biobot's Github repository on Dec 21, 2022
+1. cases_by_county.csv, downloaded from the Biobot's Github repository on Dec 21, 2022
 
 ## Processed Data
 1. compiled_data.csv. This is the studied dataset compiled from the above-mentioned four raw datasets.
